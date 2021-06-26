@@ -17,6 +17,7 @@ Trabalho de Engenharia de Software desenvolvido em Python para realizarmos a ava
 ## ⚒️ Ferramentas 
 As seguintes ferramentas foram usadas na construção do projeto:
 - [Jypyter](https://jupyter.org/install)
+- [MySql Workbach](https://www.mysql.com/products/workbench/)
 
 # 📲 Como utilizar? 
 
