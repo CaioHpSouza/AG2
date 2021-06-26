@@ -5,7 +5,6 @@
 <p align="center">
  <a href="#-Sobre-o-Trabalho">Sobre</a> •
  <a href="#-autores">Autores</a> • 
- <a href="#-Licença">Licença</a>
 </p>
 
 
@@ -65,6 +64,3 @@ $ https://github.com/CaioHpSouza/AG2.git
 
 ---
 
-## 📝 Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).e
